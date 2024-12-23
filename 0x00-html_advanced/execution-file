@@ -1,0 +1,4 @@
+wslpath -w /home/sadik_adams/alx-frontend/0x00-html_advanced/2-index.html
+
+Copy the above path, change the last html to the file name and press enter.
+The resulting output, copy it and paste it in the browser.
