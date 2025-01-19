@@ -1,0 +1,6 @@
+Open developer tools on the website and go to the sources tab.
+Locate the js folder to open the .js files. And in each file, search for click.
+
+contact_me.js = click referenced once
+freelancer.min.js = click referenced twice
+jqBootstrapValidation.min.js = click referenced three times
